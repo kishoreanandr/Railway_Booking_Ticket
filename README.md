@@ -29,7 +29,7 @@ The Railway Ticket Booking System is a console-based Java application designed t
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/railway-ticket-booking.git
+   git clone https://github.com/kishoreanandr/Railway_Booking_Ticket.git
    ```
 2. Open the project in your favorite IDE or text editor.
 3. Compile the Java files:
